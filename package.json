@@ -1,0 +1,15 @@
+{
+  "name": "luandro.com-skype-service",
+  "version": "0.0.1",
+  "description": "Personal website that redirects user messages to a Skype bot, and back to my own Skype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "skyweb": "0.0.3"
+  }
+}
